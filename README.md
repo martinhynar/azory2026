@@ -6,7 +6,7 @@
 
 # Obsah
 
-1. Úvod
+1. [Úvod](#uvod)
 2. Základní informace
 3. Před odjezdem
 4. Pronájem auta
@@ -28,7 +28,7 @@
 
 ---
 
-# 1. Úvod
+# 1. Úvod {#uvod}
 
 ## Ubytování
 
