@@ -150,29 +150,29 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 **Jídla**
 
-- Cozido das Furnas
-- Bife à Regional
-- Lapas
-- Polvo
-- Bacalhau
-- Chicharros
+- Cozido das Furnas - je tradiční portugalský guláš z ostrova São Miguel v souostroví Azory. Jde o unikátní směs různých druhů masa (hovězí, vepřové, kuřecí) a uzenin, která se vrství s místní zeleninou (brambory, mrkev, zelí a batáty). To, co dělá tento pokrm naprosto výjimečným, je způsob jeho přípravy: nevaří se na sporáku, ale přímo v zemi silou vulkánu
+- Bife à Regional - Steak s regionální omáčkou
+- Lapas - (nebo také limpets) jsou mořští plži (přílipky), kteří žijí přisátí na skalách pobřeží Atlantiku. Jde o velmi oblíbenou a vyhlášenou specialitu zejména na Madeiře a na Azorských ostrovech. Nejčastěji se připravují přímo na pánvi nebo na grilu na vrstvě olivového oleje, s velkým množstvím česneku, bylinek a másla.
+- Polvo - Polvo znamená v portugalštině chobotnice. Na Azorských ostrovech je součástí tradiční kuchyně, kde jsou chobotnice velmi oblíbenou surovinou. Mezi nejznámější místní speciality patří Polvo Guisado (pomalu dušená chobotnice) nebo Polvo à Pescador (chobotnice po rybářsku). Chobotnice se typicky dusí doměkka s bramborami, cibulí, česnekem, bobkovým listem, rajčaty a kvalitním červeným vínem. Jde o bohatý pokrm, který se na ostrovech (např. na Pico nebo São Miguel) podává s čerstvým chlebem
+- Bacalhau - Bacalhau je portugalský výraz pro tresku, nejčastěji upravovanou nasolením a sušením. V portugalské gastronomii jde o naprostý fenomén a národní symbol.
+- Chicharros - Drobná dravá ryba z čeledi kranasovitých, která se často loví a podává smažená
 
 **Sladké**
 
-- Pastel de Nata
-- Queijadas
-- Bolo Lêvedo
-- Malassadas
+- Pastel de Nata - portugalské koláčky (dortíčky) plněné žloutkovým krémem.
+- Queijadas - Tvarohový koláč
+- Bolo Lêvedo - kynuté koláčky
+- Malassadas - koblihy
 
 **Nápoje**
 
-- Kima Maracujá
-- Sumol Ananas
+- Kima Maracujá - populární sladký a perlivý nealkoholický nápoj s příchutí mučenky (maracuji). Pochází z portugalských Azorských ostrovů, kde se vyrábí v pivovaru Melo Abreu na ostrově São Miguel. Pro svou osvěžující chuť je považován za tamní legendu a oblíbený lokální suvenýr
+- Sumol Ananas - ikonická portugalská limonáda, která vyniká svou lehkou perlivostí a tím, že obsahuje skutečnou ananasovou šťávu a dužinu
 - Čaj Gorreana
 - Azorské pivo Especial
 
 
-#  2. Planování výletů {#planovani}
+#  2. Plánování výletů {#planovani}
 
 ## Denní rutina
 
@@ -773,6 +773,7 @@ Rozpočet:
 # Nordeste • Ribeira dos Caldeirões
 
 Den plný vyhlídek, zahrad a vodopádů.
+Východ slunce na východní straně ostrova
 
 ---
 
@@ -781,7 +782,9 @@ Den plný vyhlídek, zahrad a vodopádů.
 - Ribeira dos Caldeirões
 - Nordeste
 - Miradouro da Ponta do Sossego
-- Miradouro da Ponta da Madrugada
+- Miradouro da Ponta da Madrugada [Mapa](https://mapy.com/s/puvovabaza)
+  - Slunce vychází v 06:59.
+  - Doporučuje se dorazit na místo alespoň 15–30 minut předem, protože jde o jedno z nejznámějších míst na ostrově pro pozorování východu slunce a parkoviště i vyhlídka se na přelomu léta rychle zaplňují.
 
 Celkem
 
