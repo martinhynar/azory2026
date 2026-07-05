@@ -779,101 +779,31 @@ Východ slunce na východní straně ostrova
 
 ## Přehled dne
 
-- Ribeira dos Caldeirões
-- Nordeste
-- Miradouro da Ponta do Sossego
 - Miradouro da Ponta da Madrugada [Mapa](https://mapy.com/s/puvovabaza)
+  - Jedna z nejkrásnějších vyhlídek na východním pobřeží.
   - Slunce vychází v 06:59.
   - Doporučuje se dorazit na místo alespoň 15–30 minut předem, protože jde o jedno z nejznámějších míst na ostrově pro pozorování východu slunce a parkoviště i vyhlídka se na přelomu léta rychle zaplňují.
+- Miradouro da Ponta do Sossego [Mapa](https://mapy.com/s/mebejataga)
+  - Květinové zahrady
+  - Panorama oceánu.
+- Pláž Praia do Lombo Gordo [Mapa](https://mapy.com/s/guvuzevaka)
+- Nordeste
+  - Klidné historické městečko.
+  - K vidění - náměstí, kostel, krátká procházka
+- Botanická zahrada - Parque de Merendas, vodní mlýn [Mapa](https://mapy.com/s/dureladede)
+- Ribeira dos Caldeirões [Mapa](https://mapy.com/s/racacevado)
+  - Jedno z nejfotogeničtějších míst na ostrově.
+  - historické vodní mlýny
+  - vysoké vodopády
+  - tropická vegetace
+  - kamenné mosty
+  - Vstup zdarma
 
-Celkem
-
-- 🚗 60 km
-- 🚶 lehké procházky
-
----
-
-## Harmonogram
-
-| Čas | Program |
-|------|----------|
-| 09:00 | Odjezd |
-| 09:30 | Ribeira dos Caldeirões |
-| 11:30 | Vyhlídky |
-| 13:00 | Oběd |
-| 14:30 | Nordeste |
-| 16:30 | Káva |
-| 18:00 | Návrat |
-
----
-
-## Ribeira dos Caldeirões
-
-Jedno z nejfotogeničtějších míst na ostrově.
-
-Najdete zde:
-
-- historické vodní mlýny
-- vysoké vodopády
-- tropickou vegetaci
-- kamenné mosty
-
-Vstup zdarma.
-
----
-
-## Vyhlídky
-
-### Ponta do Sossego
-
-Květinové zahrady.
-
-Panorama oceánu.
-
----
-
-### Ponta da Madrugada
-
-Jedna z nejkrásnějších vyhlídek na východním pobřeží.
-
----
 
 ## Oběd
 
-Doporučení:
+- O Forno [Mapa](https://maps.app.goo.gl/Vix14CRTPscuUV9u7)
 
-**Prato do Dia**
-
-Možnosti:
-
-- grilované kuře
-- ryba dne
-- vegetariánská omeleta
-- zeleninová polévka
-
----
-
-## Nordeste
-
-Klidné historické městečko.
-
-Doporučuji:
-
-- náměstí
-- kostel
-- krátkou procházku
-
----
-
-## Rozpočet dne
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 6 € |
-| Oběd | 45–55 € |
-| Káva + zákusek | 15 € |
-
----
 
 # 18. srpna (úterý)
 # Salto do Prego • Faial da Terra
