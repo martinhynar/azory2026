@@ -6,10 +6,9 @@
 
 # Obsah
 
-1. [Úvod](#obecne)
-2. Základní informace
-3. Před odjezdem
-4. Pronájem auta
+1. Základní informace(#zaklad)
+2. Planování výletů {#planovani}
+3. Itinerář den po dni {#itinerar}
 5. Řízení na São Miguel
 6. Počasí
 7. Peníze a ceny
@@ -28,7 +27,7 @@
 
 ---
 
-# 1. Obecné {#obecne}
+# 1. Základní Informace {#zaklad}
 
 ## Ubytování
 
@@ -38,7 +37,7 @@ Chez Grand-Mère, Lombinha da Maia [Mapa](https://mapy.com/s/cemahagepu)
 
 SIXT : Renault Captur : Smart+ Protection
 
-# Základní údaje
+## Lokace
 
 - **Azory** patří pod **Portugalsko**
 - **Zásuvky** Stejné jako v ČR (typ C/F, 230 V)
@@ -52,22 +51,24 @@ SIXT : Renault Captur : Smart+ Protection
 
 První dva dny je dobré počítat s tím, že budete vstávat dříve – což se hodí pro ranní výlety.
 
-# Platby
+## Platby
 
 Platit lze téměř všude kartou. Doporučuje se mít u sebe i nějakou hotovost, což se hodí pro malé kavárny, farmářské stánky, parkoviště, drobné nákupy.
 
 Bankomaty: Nejčastější síť **Multibanco** Výběr je bezproblémový.
 
-# Internet a mobil
+## Internet a mobil
 
 Vzhledem k tomu, že jsou Azory součástí Portugalska, tak platí roaming funguje stejně jako doma, není potřeba kupovat místní SIM,  data fungují bez příplatku (dle vašeho tarifu).
 
-# Počasí
+## Počasí
 
 Na Azorech platí jedno pravidlo: Pokud se vám počasí nelíbí, počkejte deset minut. Může být slunce, mlha, déšť, duha během jedné hodiny.
 
+[Počasí na Windy](https://www.windy.com/37.829/-25.376?radar,37.730,-25.376,10)
 
-# Doporučené aplikace
+
+## Doporučené aplikace
 
 **Mapy.cz** - Stáhnout offline mapu ostrova.
 
@@ -81,7 +82,7 @@ Na Azorech platí jedno pravidlo: Pokud se vám počasí nelíbí, počkejte des
 
 
 
-# Jak jezdit po ostrově
+## Jak jezdit po ostrově
 
 São Miguel není velký a přejezdy jsou krátké.
 
@@ -95,7 +96,7 @@ Přibližné časy:
 | Ubytování → Ponta Delgada | 50–60 min |
 | Ubytování → Parkoviště Ponta da Ferraria | 60 min |
 
-# Silnice
+## Silnice
 
 Silnice jsou ve velmi dobrém stavu, ale je potřeba počítat s tím, že se vyskytnou horské serpentiny a úzké vesnické komunikace.
 
@@ -110,151 +111,11 @@ Největší nebezpečí nejsou výmoly, ale prudké zatáčky, mlha, krávy a po
 **Odhad nákladů:** Předpoklad je 900 km, spotřeba 6l / 100km. Palivo ≈55 litrů, rozpočet cca **100–120 €**
 
 
+## Nákupy
 
-# Co ochutnat
-
-## Jídla
-
-- Cozido das Furnas
-- Bife à Regional
-- Lapas
-- Polvo
-- Bacalhau
-- Chicharros
-
-## Sladké
-
-- Pastel de Nata
-- Queijadas
-- Bolo Lêvedo
-- Malassadas
-
-## Nápoje
-
-- Kima Maracujá
-- Sumol Ananas
-- Čaj Gorreana
-- Azorské pivo Especial
-
----
-
-# Styl stravování
-
-Přednost dostanou:
-
-✅ Prato do Dia
-
-✅ Menu do Dia
-
-✅ Snack Bary
-
-✅ Rodinné restaurace
-
-✅ Pekárny
-
-
-# Rezervace
-
-## Whale Watching
-
-14. srpna
-
-09:00–12:00
-
-Po skončení přesun do Ponta Delgada na oběd.
-
----
-
-# Největší očekávání
-
-- Velryby
-- Delfíni
-- Vodopády
-- Vyhlídky
-- Termály
-- Oceán
-- Místní jídlo
-- Čajové plantáže
-- Fotografování
-
----
-
-# Kapitola 2 – Praktické informace
-
-> Vše, co je dobré vědět před prvním výletem.
-
----
-
-
-
-
----
-
-# Jak plánovat výlety
-
-Večer vždy zkontrolovat předpověď.
-
-### Slunečno
-
-- Sete Cidades
-- Lagoa do Fogo
-- vyhlídky
-
-### Oblačno
-
-- Furnas
-- Ponta Delgada
-- čajové plantáže
-
-### Déšť
-
-- ananasové plantáže,
-- muzea,
-- termály,
-- kavárny.
-
----
-
-
----
-
-# Co vozit v autě
-
-Každý den:
-
-- 2 l vody
-- lehká bunda
-- pláštěnka
-- opalovací krém
-- plavky
-- ručník
-- powerbanka
-- hotovost
-- sluneční brýle
-
----
-
-# Co mít v batohu na túry
-
-- voda
-- ovoce
-- proteinová tyčinka
-- repelent
-- kapesníky
-- malá lékárnička
-- nabitý telefon
-
----
-
-# Supermarkety
-
-## Continente
+### Continente
 
 Nejlepší na velký nákup.
-
-Doporučeno první den.
-
-Nakoupit:
 
 - vodu,
 - pečivo,
@@ -266,46 +127,20 @@ Nakoupit:
 - snídaňové cereálie,
 - svačiny.
 
----
+### Pingo Doce
 
-## Pingo Doce
+Skvělé pečivo, výborné zákusky, dobré ceny.
 
-Skvělé pečivo.
+### SolMar
 
-Výborné zákusky.
+Místní produkty, Azorské sýry, čerstvé ryby.
 
-Dobré ceny.
+### Pekárny
 
----
-
-## SolMar
-
-Místní produkty.
-
-Azorské sýry.
-
-Čerstvé ryby.
-
----
-
-# Pekárny
-
-Na Azorech jsou výborné.
-
-Vyplatí se koupit ráno:
-
-- čerstvé housky,
-- Pastel de Nata,
-- Bolo Lêvedo.
-
-Cena:
-
-1–3 €.
-
----
+Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky, Pastel de Nata, Bolo Lêvedo.
 
 
-# Co se vyplatí koupit
+### Co se vyplatí koupit?
 
 - sýr São Jorge
 - čaj Gorreana
@@ -315,26 +150,75 @@ Cena:
 - místní koření
 - konzervy s tuňákem
 
----
 
-# Denní rutina
+### Co ochutnat
 
-Každý večer:
+**Jídla**
 
-- zkontrolovat počasí,
+- Cozido das Furnas
+- Bife à Regional
+- Lapas
+- Polvo
+- Bacalhau
+- Chicharros
+
+**Sladké**
+
+- Pastel de Nata
+- Queijadas
+- Bolo Lêvedo
+- Malassadas
+
+**Nápoje**
+
+- Kima Maracujá
+- Sumol Ananas
+- Čaj Gorreana
+- Azorské pivo Especial
+
+
+#  2. Planování výletů {#planovani}
+
+## Denní rutina
+
+**Večer:**
+
+- Večer vždy zkontrolovat předpověď počasí. Pokud je předpověď  **slunečno** - zvolit výlet s vyhlídkami (Sete Cidades, Lagoa do Fogo), **Oblačno** -  níže položené oblasti, kde oblačnost nebude vadit (Furnas, Ponta Delgada, čajové plantáže), **déšť** - nedá se nic dělat, neco uvnitř nebo se na to vykašlat (ananasové plantáže, muzea, termály, kavárny).
 - připravit batohy,
 - dobít telefony,
 - připravit vodu,
 - zkontrolovat nádrž.
 
-Ráno:
+**Ráno:**
 
 - vydatná snídaně,
 - odjezd kolem 9:00.
 
----
+## Co vozit v autě
 
-# Kapitola 3 – Itinerář den po dni
+- 4 l vody
+- lehká bunda
+- pláštěnka
+- opalovací krém
+- plavky
+- ručník
+- powerbanka
+- hotovost
+- sluneční brýle
+
+## Co mít v batohu
+
+- voda
+- ovoce
+- proteinová tyčinka
+- repelent
+- kapesníky
+- malá lékárnička
+- nabitý telefon
+
+
+
+# Kapitola 3 – Itinerář den po dni {#itinerar}
 
 > 12.–15. srpna 2026
 
@@ -597,12 +481,10 @@ cca 70 km
 
 ---
 
-# 14. srpna (pátek)
-# Whale Watching + Ponta Delgada
+# 14. srpna (pátek) : Whale Watching  + Ponta Delgada
 
 Nejdůležitější den první poloviny dovolené.
 
----
 
 ## Harmonogram
 
@@ -620,13 +502,11 @@ Nejdůležitější den první poloviny dovolené.
 
 ---
 
-## Whale Watching
+## Pozorování velryb
 
-Rezervováno.
+**Rezervováno!** 
 
-Délka:
-
-3 hodiny
+Čas: 08:30–11:30 (3 hodiny)
 
 ### Vzít s sebou
 
