@@ -211,7 +211,9 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 - proteinová tyčinka
 - repelent
 - kapesníky
-- malá lékárnička
+- malá lékárnička (náplasti, dezinfekce, léky proti bolesti, léky proti alergii, léky proti nevolnosti na loď)
+- opalovací krém SPF 50
+- gel po opalování
 - nabitý telefon
 
 
@@ -2774,18 +2776,6 @@ Tak poznáte všechny hlavní typy koupání, které São Miguel nabízí.
 
 ---
 
-## Lékárnička
-
-- náplasti
-- dezinfekce
-- léky proti bolesti
-- léky proti alergii
-- léky proti nevolnosti na loď
-- repelent
-- opalovací krém SPF 50
-- gel po opalování
-
----
 
 # Checklist při převzetí auta
 
@@ -2882,18 +2872,6 @@ Místo toho navštivte:
 
 ---
 
-# Rozpočet celé dovolené (orientační)
-
-| Položka | Cena |
-|---------|------:|
-| Palivo | 100–120 € |
-| Potraviny | 180–250 € |
-| Obědy | 500–700 € |
-| Káva a dezerty | 120–180 € |
-| Vstupy | dle programu |
-| Suvenýry | individuálně |
-
----
 
 # Nejlepší suvenýry
 
@@ -2948,33 +2926,4 @@ Místo toho navštivte:
 9. 🍵 Čajová plantáž Gorreana
 10. 🏖️ Praia dos Moinhos
 
----
 
-# Závěrečné doporučení
-
-Plán je sestaven tak, aby:
-
-- minimalizoval přejezdy,
-- ponechal rezervní den pro počasí,
-- kombinoval turistiku, koupání, města i odpočinek,
-- nabídl tradiční azorskou gastronomii i vegetariánské možnosti,
-- využil ranní hodiny na vyhlídky a odpoledne na koupání nebo města.
-
-Během 13 dnů tak poznáte prakticky všechny nejkrásnější části ostrova São Miguel, aniž by byl program zbytečně uspěchaný.
-
----
-
-# Obsah průvodce
-
-- ✅ Kapitola 1 – Úvod a plán cesty
-- ✅ Kapitola 2 – Praktické informace
-- ✅ Kapitola 3 – Itinerář den po dni
-- ✅ Kapitola 4 – Gastronomický průvodce
-- ✅ Kapitola 5 – Přehled zajímavých míst
-- ✅ Kapitola 6 – Turistické trasy
-- ✅ Kapitola 7 – Pláže a termály
-- ✅ Kapitola 8 – Checklisty a nouzové informace
-
----
-
-**Příjemnou dovolenou na São Miguel! 🇵🇹🌿🐋**
