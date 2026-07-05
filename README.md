@@ -30,24 +30,11 @@
 
 # 1. Úvod
 
-## Účastníci
-
-- 2 dospělí
-- 2 teenageři (14 a 17 let)
-
-## Termín
-
-12.–25. srpna 2026
-
-## Ostrov
-
-São Miguel, Azory, Portugalsko
-
 ## Ubytování
 
-Chez Grand-Mère
+Chez Grand-Mère, Lombinha da Maia [Mapa](https://mapy.com/s/cemahagepu)
 
-Lomba da Maia
+
 
 ## Auto
 
