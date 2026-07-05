@@ -6,7 +6,7 @@
 
 # Obsah
 
-1. [Úvod](#uvod)
+1. [Úvod](#obecne)
 2. Základní informace
 3. Před odjezdem
 4. Pronájem auta
@@ -28,98 +28,88 @@
 
 ---
 
-# 1. Úvod {#uvod}
+# 1. Obecné {#obecne}
 
 ## Ubytování
 
 Chez Grand-Mère, Lombinha da Maia [Mapa](https://mapy.com/s/cemahagepu)
 
-
-
 ## Auto
 
-SIXT
+SIXT : Renault Captur : Smart+ Protection
 
-Renault Captur
+# Základní údaje
 
-Smart+ Protection
+- **Azory** patří pod **Portugalsko**
+- **Zásuvky** Stejné jako v ČR (typ C/F, 230 V)
+- **Čas** UTC -1 (v létě o 2 hodiny méně než v ČR)
 
----
+| ČR | São Miguel |
+|----|------------|
+| 08:00 | 06:00 |
+| 12:00 | 10:00 |
+| 20:00 | 18:00 |
 
-# Cíl dovolené
+První dva dny je dobré počítat s tím, že budete vstávat dříve – což se hodí pro ranní výlety.
 
-Nejde objet celý ostrov co nejrychleji.
+# Platby
 
-Cílem je:
+Platit lze téměř všude kartou. Doporučuje se mít u sebe i nějakou hotovost, což se hodí pro malé kavárny, farmářské stánky, parkoviště, drobné nákupy.
 
-- poznat přírodu
-- ochutnat místní kuchyni
-- navštívit nejkrásnější vyhlídky
-- užít si termály
-- vykoupat se v oceánu
-- podniknout několik pěších výletů
-- jíst tam, kam chodí místní
+Bankomaty: Nejčastější síť **Multibanco** Výběr je bezproblémový.
 
-Tempo bude pohodové.
+# Internet a mobil
 
-Nebudeme přejíždět z jednoho konce ostrova na druhý několikrát během jednoho dne.
+Vzhledem k tomu, že jsou Azory součástí Portugalska, tak platí roaming funguje stejně jako doma, není potřeba kupovat místní SIM,  data fungují bez příplatku (dle vašeho tarifu).
 
----
+# Počasí
 
-# Hlavní body programu
+Na Azorech platí jedno pravidlo: Pokud se vám počasí nelíbí, počkejte deset minut. Může být slunce, mlha, déšť, duha během jedné hodiny.
 
-✔ Whale Watching
 
-✔ Sete Cidades
+# Doporučené aplikace
 
-✔ Lagoa do Fogo
+**Mapy.cz** - Stáhnout offline mapu ostrova.
 
-✔ Furnas
+**Google Maps** - Stáhnout offline mapu ostrova. Některé cíle v českých mapách nejsou.
 
-✔ Terra Nostra
+**Windy** - počasí
 
-✔ Salto do Prego
+**SpotAzores** - Webkamery po celém ostrově. Ideální před odjezdem na vyhlídky.
 
-✔ Moinho do Félix
+**Google Lens** - Překlad portugalských jídel.
 
-✔ Poço Azul
 
-✔ Ribeira dos Caldeirões
 
-✔ Praia dos Moinhos
+# Jak jezdit po ostrově
 
-✔ Praia das Milícias
+São Miguel není velký a přejezdy jsou krátké.
 
-✔ Gorreana Tea Plantation
+Přibližné časy:
 
-✔ Porto Formoso
+| Trasa | Čas |
+|-------|-----:|
+| Ubytování v Lombinha da Maia → Supermarket Continente v Ribeira Grande | 17 km / 17 min |
+| Ubytování → Termály Furnas | do 20 min |
+| Ubytování → maják Nordeste | do 25 min |
+| Ubytování → Ponta Delgada | 50–60 min |
+| Ubytování → Parkoviště Ponta da Ferraria | 60 min |
 
-✔ Lomba de São Pedro
+# Silnice
 
-✔ Nordeste
+Silnice jsou ve velmi dobrém stavu, ale je potřeba počítat s tím, že se vyskytnou horské serpentiny a úzké vesnické komunikace.
 
-✔ Ponta Delgada
+Největší nebezpečí nejsou výmoly, ale prudké zatáčky, mlha, krávy a pomalejší turisté.
 
----
+**Jak řídit:** Využívat motor při sjíždění kopců, nespěchat, nechat místní předjet, zastavovat na vyhlídkách.
 
-# Filosofie cestování
+**Parkování:** Na většině turistických míst je parkování zdarma. U hlavních atrakcí bývají velká parkoviště.
 
-Každý den bude obsahovat:
+**Tankování:** Nejčastější čerpací stanice jsou Galp, Repsol, BP. **Doporučení:** Tankovat při průjezdu Ribeira Grande a Ponta Delgada, Nikdy nenechávat nádrž téměř prázdnou!
 
-- hlavní cíl
-- několik menších zastávek
-- čas na koupání
-- čas na kávu
-- čas na fotografování
-- místní oběd (Prato do Dia)
+**Odhad nákladů:** Předpoklad je 900 km, spotřeba 6l / 100km. Palivo ≈55 litrů, rozpočet cca **100–120 €**
 
-Nebudeme spěchat.
 
-Pokud bude někde krásně, zůstaneme déle.
-
-Pokud bude špatné počasí, program jednoduše prohodíme.
-
----
 
 # Co ochutnat
 
@@ -162,49 +152,6 @@ Přednost dostanou:
 
 ✅ Pekárny
 
-Vyhneme se drahým turistickým restauracím.
-
-Rozpočet na oběd:
-
-8–14 € / osoba
-
-Rozpočet na večeři:
-
-12–20 € / osoba
-
----
-
-# Orientační denní režim
-
-08:00 snídaně
-
-09:00 odjezd
-
-10:00 první zastávka
-
-12:30 oběd
-
-14:00 pokračování programu
-
-17:00 koupání nebo káva
-
-19:30 večeře
-
-22:30 spánek
-
----
-
-# Přibližný rozpočet
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 110 € |
-| Potraviny | 250 € |
-| Restaurace | 900–1200 € |
-| Vstupy | 250 € |
-| Suvenýry | dle chuti |
-
----
 
 # Rezervace
 
@@ -238,200 +185,8 @@ Po skončení přesun do Ponta Delgada na oběd.
 
 ---
 
-# Základní údaje
 
-| Položka | Hodnota |
-|---------|---------|
-| Země | Portugalsko |
-| Souostroví | Azory |
-| Ostrov | São Miguel |
-| Měna | Euro (€) |
-| Jazyk | Portugalština |
-| Čas | UTC -1 (v létě o 2 hodiny méně než v ČR) |
-| Zásuvky | Stejné jako v ČR (typ C/F, 230 V) |
-| Řízení | Vpravo |
 
----
-
-# Časový posun
-
-V srpnu je na Azorech:
-
-**-2 hodiny oproti České republice**
-
-Příklad:
-
-| ČR | São Miguel |
-|----|------------|
-| 08:00 | 06:00 |
-| 12:00 | 10:00 |
-| 20:00 | 18:00 |
-
-První dva dny je dobré počítat s tím, že budete vstávat dříve – což se hodí pro ranní výlety.
-
----
-
-# Internet a mobil
-
-Vzhledem k tomu, že jsou Azory součástí Portugalska:
-
-- roaming funguje stejně jako doma,
-- není potřeba kupovat místní SIM,
-- data fungují bez příplatku (dle vašeho tarifu).
-
----
-
-# Platby
-
-Platit lze téměř všude kartou.
-
-Přesto doporučuji mít u sebe:
-
-**100–150 € v hotovosti**
-
-Hodí se na:
-
-- malé kavárny,
-- farmářské stánky,
-- parkoviště,
-- drobné nákupy.
-
----
-
-# Bankomaty
-
-Nejčastější síť:
-
-- Multibanco
-
-Výběr je bezproblémový.
-
----
-
-# Jak jezdit po ostrově
-
-São Miguel není velký.
-
-Přejezdy jsou krátké.
-
-Přibližné časy:
-
-| Trasa | Čas |
-|-------|-----:|
-| Lomba da Maia → Ribeira Grande | 25 min |
-| Lomba da Maia → Furnas | 25 min |
-| Lomba da Maia → Nordeste | 30 min |
-| Lomba da Maia → Ponta Delgada | 50–60 min |
-| Lomba da Maia → Sete Cidades | 90 min |
-
----
-
-# Silnice
-
-Silnice jsou ve velmi dobrém stavu.
-
-Najdete zde:
-
-- nové asfaltové silnice,
-- horské serpentiny,
-- úzké vesnické komunikace.
-
-Největší nebezpečí nejsou výmoly.
-
-Ale:
-
-- prudké zatáčky,
-- mlha,
-- krávy,
-- pomalejší turisté.
-
----
-
-# Jak řídit
-
-✔ využívat motor při sjíždění kopců
-
-✔ nespěchat
-
-✔ v zatáčkách troubit není potřeba
-
-✔ nechat místní předjet
-
-✔ zastavovat na vyhlídkách
-
----
-
-# Parkování
-
-Dobrá zpráva:
-
-Na většině turistických míst je parkování zdarma.
-
-U hlavních atrakcí bývají velká parkoviště.
-
-Například:
-
-- Lagoa do Fogo
-- Sete Cidades
-- Ribeira dos Caldeirões
-- Terra Nostra
-- Praia dos Moinhos
-
----
-
-# Tankování
-
-Nejčastější čerpací stanice:
-
-- Galp
-- Repsol
-- BP
-
-Doporučení:
-
-Tankovat při průjezdu:
-
-- Ribeira Grande
-- Ponta Delgada
-
-Nikdy nenechávat nádrž téměř prázdnou.
-
----
-
-# Odhad nákladů
-
-Předpoklad:
-
-900 km
-
-Spotřeba:
-
-6 l / 100 km
-
-Palivo:
-
-≈55 litrů
-
-Rozpočet:
-
-cca **100–120 €**
-
----
-
-# Počasí
-
-Na Azorech platí jedno pravidlo:
-
-> Pokud se vám počasí nelíbí, počkejte deset minut.
-
-Může být:
-
-- slunce,
-- mlha,
-- déšť,
-- duha
-
-během jedné hodiny.
 
 ---
 
@@ -460,39 +215,6 @@ Večer vždy zkontrolovat předpověď.
 
 ---
 
-# Doporučené aplikace
-
-## Google Maps
-
-Stáhnout offline mapu ostrova.
-
----
-
-## Organic Maps
-
-Výborné turistické trasy.
-
-Funguje offline.
-
----
-
-## Windy
-
-Nejpřesnější počasí.
-
----
-
-## SpotAzores
-
-Webkamery po celém ostrově.
-
-Ideální před odjezdem na vyhlídky.
-
----
-
-## Google Lens
-
-Překlad portugalských jídel.
 
 ---
 
@@ -582,17 +304,6 @@ Cena:
 
 ---
 
-# Bezpečnost
-
-São Miguel patří mezi velmi bezpečné destinace.
-
-Stačí dodržovat běžná pravidla:
-
-- nenechávat cennosti na sedadlech auta,
-- zamykat vůz,
-- na túrách zůstat na značených cestách.
-
----
 
 # Co se vyplatí koupit
 
