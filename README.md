@@ -124,7 +124,7 @@ Nejlepší na velký nákup.
 
 ### Pingo Doce
 
-Skvělé pečivo, výborné zákusky, dobré ceny.
+Skvělé pečivo, výborné zákusky, dobré ceny. Mají i denní menu (Pratos do dia).
 
 ### SolMar
 
