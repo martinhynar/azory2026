@@ -6,14 +6,9 @@
 
 # Obsah
 
-1. Základní informace(#zaklad)
-2. Planování výletů {#planovani}
-3. Itinerář den po dni {#itinerar}
-5. Řízení na São Miguel
-6. Počasí
-7. Peníze a ceny
-8. Gastronomie
-9. Itinerář den po dni
+1. [Základní informace](#zaklad)
+2. [Planování výletů](#planovani)
+3. [Itinerář den po dni](#itinerar)
 10. Přehled zajímavých míst
 11. Turistické trasy
 12. Pláže
@@ -183,7 +178,10 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 **Večer:**
 
-- Večer vždy zkontrolovat předpověď počasí. Pokud je předpověď  **slunečno** - zvolit výlet s vyhlídkami (Sete Cidades, Lagoa do Fogo), **Oblačno** -  níže položené oblasti, kde oblačnost nebude vadit (Furnas, Ponta Delgada, čajové plantáže), **déšť** - nedá se nic dělat, neco uvnitř nebo se na to vykašlat (ananasové plantáže, muzea, termály, kavárny).
+- Večer vždy zkontrolovat předpověď počasí. Pokud je předpověď
+  - **slunečno** - zvolit výlet s vyhlídkami (Sete Cidades, Lagoa do Fogo)
+  - **oblačno** -  níže položené oblasti, kde oblačnost nebude vadit (Furnas, Ponta Delgada, čajové plantáže)
+  - **déšť** - nedá se nic dělat, neco uvnitř nebo se na to vykašlat (ananasové plantáže, muzea, termály, kavárny).
 - připravit batohy,
 - dobít telefony,
 - připravit vodu,
@@ -220,21 +218,14 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 # Kapitola 3 – Itinerář den po dni {#itinerar}
 
-> 12.–15. srpna 2026
 
----
+## 12. srpna (středa)
 
-# 12. srpna (středa)
-# Přílet na São Miguel
-
-## Cíl dne
-
+- přílet na São Miguel
 - převzít auto
-- nakoupit zásoby
+- nakoupit zásoby - [Continente](https://mapy.com/s/cezofebuse)
 - ubytovat se
-- první seznámení s ostrovem
-
----
+- první seznámení s okolím
 
 ## Harmonogram
 
@@ -256,16 +247,7 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 Letiště → Continente → Lomba da Maia
 
-Celkem
-
-- cca 60 km
-- asi 1 hodina jízdy
-
----
-
-## Nákup
-
-Doporučuji nakoupit na několik dní.
+## Nákup na několik dní.
 
 ### Potraviny
 
