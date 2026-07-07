@@ -223,7 +223,7 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 - [Tasectan](https://www.drmax.cz/tasectan-500-mg-15-tobolek) - na průjmy. Účinkuje rychleji než černé uhlí a není ho potřeba použít tolik.
 - [Xados](https://www.drmax.cz/xados-20-mg-10-tablet) - na alergickou reakci, kýchání, kopřivku, svědění. Nezpůsobuje ospalost.
 - [Ophthalmo-Septonex](https://www.drmax.cz/ophthalmo-septonex-gtt-opht-1x10ml) - podrážděné oči z větru nebo prachu
-- Teploměr
+- [Kynedril](https://www.drmax.cz/kinedryl-por-tbl-nob-10) - pro jistotu na loď?
 - Dezinfekční mast [Betadine](https://www.drmax.cz/betadine-mast-20g) - na jakékoliv odřeniny, i na puchýř pod náplast
 - [Sudocrem](https://www.drmax.cz/sudocrem-my-little-sudocrem-22-g) - na opruzeniny, spaleniny od slunce
 - [Náplasti na puchýře](https://www.drmax.cz/dr-max-hydrocolloid-plasters-3-velikosti-naplasti-na-puchyre-6-ks) (Hydrokoloidní náplasti)
