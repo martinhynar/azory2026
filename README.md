@@ -24,6 +24,10 @@
 
 # 1. Základní Informace {#zaklad}
 
+## Let
+
+[Rezervace XQNYHO](https://myb.flytap.com/my-bookings/details/XQNYHO/HYNAR)
+
 ## Ubytování
 
 Chez Grand-Mère, Lombinha da Maia [Mapa](https://mapy.com/s/cemahagepu)
