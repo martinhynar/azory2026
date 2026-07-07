@@ -189,8 +189,9 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 **Ráno:**
 
-- vydatná snídaně,
-- odjezd kolem 9:00.
+- Vydatná snídaně!
+- Nejprve namazat opalovacím krémem. Teprve po vstřebání krému (cca za 15 minut) aplikovat na odhalená místa repelent. Obrácena aplikace znamená, že repelent by přestal fungovat.
+- Odjezd nejpozději v 9:00!
 
 ## Co vozit v autě
 
@@ -216,9 +217,23 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 - gel po opalování
 - nabitý telefon
 
+## Lékárnička
+
+- Ibalgin - horečka, bolest, tlumí i zánět
+- [Tasectan](https://www.drmax.cz/tasectan-500-mg-15-tobolek) - na průjmy. Účinkuje rychleji než černé uhlí a není ho potřeba použít tolik.
+- [Xados](https://www.drmax.cz/xados-20-mg-10-tablet) - na alergickou reakci, kýchání, kopřivku, svědění. Nezpůsobuje ospalost.
+- [Ophthalmo-Septonex](https://www.drmax.cz/ophthalmo-septonex-gtt-opht-1x10ml) - podrážděné oči z větru nebo prachu
+- Teploměr
+- Dezinfekční mast [Betadine](https://www.drmax.cz/betadine-mast-20g) - na jakékoliv odřeniny, i na puchýř pod náplast
+- [Sudocrem](https://www.drmax.cz/sudocrem-my-little-sudocrem-22-g) - na opruzeniny, spaleniny od slunce
+- [Náplasti na puchýře](https://www.drmax.cz/dr-max-hydrocolloid-plasters-3-velikosti-naplasti-na-puchyre-6-ks) (Hydrokoloidní náplasti)
+- [Obyčejná náplast](https://www.drmax.cz/omniplast-naplast-textilni-2-5-cm-x-5-m-civka-1-ks)
+- Pinzeta na klíšťata
+- Repelent Autan v mechanickém rozprasovaci
+- Opalovací krém [BIODERMA Pediatrics mléko SPF50+ 100 ml](https://www.drmax.cz/bioderma-photoderm-pediatrics-mleko-spf50-100-ml)
 
 
-# Kapitola 3 – Itinerář den po dni {#itinerar}
+# Itinerář den po dni {#itinerar}
 
 
 ## 12. srpna (středa)
