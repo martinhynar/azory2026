@@ -27,6 +27,7 @@
 ## Ubytování
 
 Chez Grand-Mère, Lombinha da Maia [Mapa](https://mapy.com/s/cemahagepu)
+Popis na [AirBnb](https://www.airbnb.com/rooms/1104334311446381171)
 
 ## Auto
 
