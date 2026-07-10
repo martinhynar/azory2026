@@ -1,8 +1,5 @@
 # 🇵🇹 Azory 2026 – São Miguel
 
-> Rodinný průvodce pro dovolenou 12.–25. srpna 2026
-
----
 
 # Obsah
 
@@ -183,48 +180,12 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 [Zobraz](/azory2026/VECER)
 
-## Denní rutina
-
-**Večer:**
-
-- Večer vždy zkontrolovat předpověď počasí. Pokud je předpověď
-  - **slunečno** - zvolit výlet s vyhlídkami (Sete Cidades, Lagoa do Fogo)
-  - **oblačno** -  níže položené oblasti, kde oblačnost nebude vadit (Furnas, Ponta Delgada, čajové plantáže)
-  - **déšť** - nedá se nic dělat, neco uvnitř nebo se na to vykašlat (ananasové plantáže, muzea, termály, kavárny).
-- připravit batohy,
-- dobít telefony,
-- připravit vodu,
-- zkontrolovat nádrž.
-
 **Ráno:**
 
 - Vydatná snídaně!
 - Nejprve namazat opalovacím krémem. Teprve po vstřebání krému (cca za 15 minut) aplikovat na odhalená místa repelent. Obrácena aplikace znamená, že repelent by přestal fungovat.
 - Odjezd nejpozději v 9:00!
 
-## Co vozit v autě
-
-- 4 l vody
-- lehká bunda
-- pláštěnka
-- opalovací krém
-- plavky
-- ručník
-- powerbanka
-- hotovost
-- sluneční brýle
-
-## Co mít v batohu
-
-- voda
-- ovoce
-- proteinová tyčinka
-- repelent
-- kapesníky
-- malá lékárnička (náplasti, dezinfekce, léky proti bolesti, léky proti alergii, léky proti nevolnosti na loď)
-- opalovací krém SPF 50
-- gel po opalování
-- nabitý telefon
 
 ## Lékárnička
 
@@ -249,9 +210,15 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 - přílet na São Miguel
 - převzít auto
-- nakoupit zásoby - [Continente](https://mapy.com/s/cezofebuse)
-- ubytovat se
-- první seznámení s okolím
+- nakoupit zásoby [Nákupní Seznam](/azory2026/NAKUP) - [Continente Modelo](https://mapy.com/s/cezofebuse)
+- oběd cestou
+- ubytovat se [Mapa](https://mapy.com/s/cemahagepu)
+- první seznámení s okolím, procházka do Maia a k moři
+  - kostel
+  - přístav
+  - přírodní koupaliště
+  - oceánské útesy
+
 
 ## Harmonogram
 
@@ -267,93 +234,6 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 | 17:00 | Procházka po Maia |
 | 19:00 | Večeře |
 
----
-
-## Trasa
-
-Letiště → Continente → Lomba da Maia
-
-## Nákup na několik dní.
-
-### Potraviny
-
-- voda (balení 6×1,5 l)
-- pečivo
-- máslo
-- šunka
-- sýr São Jorge
-- ovoce
-- zelenina
-- jogurty
-- cereálie
-- káva
-- mléko
-- těstoviny
-- omáčka
-- sušenky
-- oříšky
-
-Na túry:
-
-- banány
-- müsli tyčinky
-- iontové nápoje
-
----
-
-## Doporučený supermarket
-
-**Continente Modelo**
-
-Výhodou je:
-
-- velký výběr
-- dobré ceny
-- parkování zdarma
-
----
-
-## Oběd
-
-Po příletu není potřeba nic složitého.
-
-Ideální je food court nebo snack bar.
-
-Rozpočet:
-
-8–12 €/osoba
-
----
-
-## Večerní procházka
-
-### Maia
-
-Doporučená trasa:
-
-- kostel
-- přístav
-- přírodní koupaliště
-- oceánské útesy
-
-Večer bývá krásné světlo.
-
----
-
-## Večeře
-
-Pokud budete unavení:
-
-večeře z nákupu.
-
-Například:
-
-- pečivo
-- sýr
-- šunka
-- ovoce
-
----
 
 
 # 13. srpna (čtvrtek)
