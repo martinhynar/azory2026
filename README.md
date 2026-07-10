@@ -351,15 +351,6 @@ Například:
 
 ---
 
-## Dnešní rozpočet
-
-| Položka | Cena |
-|---------|------:|
-| Nákup | 120–180 € |
-| Oběd | 35–45 € |
-| Večeře | z nákupu |
-
----
 
 # 13. srpna (čtvrtek)
 # Čajové plantáže a sever ostrova
@@ -475,15 +466,6 @@ cca 70 km
 
 ---
 
-## Rozpočet dne
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 8 € |
-| Oběd | 40–50 € |
-| Káva + zmrzlina | 15 € |
-
----
 
 # 14. srpna (pátek) : Whale Watching  + Ponta Delgada
 
@@ -560,15 +542,6 @@ cca 120 km
 
 ---
 
-## Rozpočet dne
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 10 € |
-| Oběd | 50–70 € |
-| Suvenýry | dle chuti |
-
----
 
 # 15. srpna (sobota)
 # Furnas a termály
@@ -649,16 +622,7 @@ cca 60 km
 | Položka | Cena |
 |---------|------:|
 | Vstup Terra Nostra | dle aktuálního ceníku |
-| Oběd | 40–70 € |
-| Benzín | 6 € |
 
----
-
-# Kapitola 3 – Itinerář den po dni (pokračování)
-
-> 16.–19. srpna 2026
-
----
 
 # 16. srpna (neděle)
 # Moinho do Félix • Poço Azul • Lomba de São Pedro
@@ -777,17 +741,6 @@ Rozpočet:
 
 📷 Oceánské vyhlídky odpoledne.
 
----
-
-## Rozpočet dne
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 5 € |
-| Oběd | 45–55 € |
-| Káva | 15 € |
-
----
 
 # 17. srpna (pondělí)
 # Nordeste • Ribeira dos Caldeirões
@@ -889,16 +842,6 @@ Lehké menu:
 - ryba
 - vegetariánský talíř
 
----
-
-## Rozpočet dne
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 7 € |
-| Oběd | 45–55 € |
-
----
 
 # 19. srpna (středa)
 # Lagoa do Fogo • Ribeira Grande
@@ -964,33 +907,6 @@ Tipy:
 - místní cukrárna
 - zmrzlina
 
----
-
-## Rozpočet dne
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 6 € |
-| Oběd | 45–55 € |
-| Káva a zmrzlina | 15 € |
-
----
-
-# Poznámky k prvním osmi dnům
-
-✅ Program je seskupen podle oblastí ostrova, aby se minimalizovalo zbytečné přejíždění.
-
-✅ Většina dní končí kolem 18:00, takže zůstává čas na odpočinek nebo večerní procházku po Lomba da Maia.
-
-✅ Každý den obsahuje možnost vegetariánského oběda i tradiční portugalské kuchyně pro ostatní členy rodiny.
-
----
-
-# Kapitola 3 – Itinerář den po dni (závěr)
-
-> 20.–25. srpna 2026
-
----
 
 # 20. srpna (čtvrtek)
 # Sete Cidades • Mosteiros
@@ -1084,17 +1000,6 @@ Pokud budou malé vlny:
 
 ✔ západ slunce patří k nejhezčím na ostrově.
 
----
-
-## Rozpočet dne
-
-| Položka | Cena |
-|---------|------:|
-| Benzín | 12 € |
-| Oběd | 45–60 € |
-| Káva | 15 € |
-
----
 
 # 21. srpna (pátek)
 # Volnější den v okolí Maia
@@ -1425,102 +1330,6 @@ Cena:
 
 3–5 €/osoba.
 
----
-
-# Obědy podle itineráře
-
-## 13. srpna
-
-Sever ostrova
-
-Doporučení:
-
-- Prato do Dia
-- ryba dne
-- vegetariánská omeleta
-
----
-
-## 14. srpna
-
-Po whale watchingu
-
-Doporučuji vegetariánsky přívětivý podnik v Ponta Delgada.
-
----
-
-## 15. srpna
-
-Furnas
-
-Možnosti:
-
-- Cozido
-- vegetariánské menu
-- polévka
-
----
-
-## 16. srpna
-
-Moinho do Félix
-
-Rodinný snack bar.
-
----
-
-## 17. srpna
-
-Nordeste
-
-Prato do Dia.
-
----
-
-## 18. srpna
-
-Faial da Terra
-
-Lehký oběd po túře.
-
----
-
-## 19. srpna
-
-Ribeira Grande
-
-Denní menu.
-
----
-
-## 20. srpna
-
-Sete Cidades
-
-Jednoduchý snack bar.
-
----
-
-## 21.–24. srpna
-
-Podle programu.
-
----
-
-# Večeře
-
-Protože budete mít ubytování s možností vlastního stravování, doporučuji kombinovat restaurace a domácí večeře.
-
-Nápady:
-
-- čerstvé pečivo
-- místní sýry
-- ovoce
-- saláty
-- grilované maso nebo ryba
-- víno z Azor
-
----
 
 # Nejlepší místní produkty
 
