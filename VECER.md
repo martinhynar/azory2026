@@ -1,4 +1,4 @@
-[Hlavní Strana](/)
+[Hlavní Strana](/azory2026/)
 
 
 # Večerní rutina
@@ -38,7 +38,12 @@
 - proteinová tyčinka
 - repelent
 - kapesníky
-- malá lékárnička (náplasti, dezinfekce, léky proti bolesti, léky proti alergii, léky proti nevolnosti na loď)
+- malá lékárnička
+    - náplasti
+    - dezinfekce
+    - léky proti bolesti
+    - léky proti alergii
+    - léky proti nevolnosti na loď
 - opalovací krém SPF 50
 - gel po opalování
 - nabitý telefon

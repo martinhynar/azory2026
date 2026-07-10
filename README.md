@@ -179,6 +179,10 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 
 #  2. Plánování výletů {#planovani}
 
+## Večerní rutina
+
+[Zobraz](/azory2026/VECER)
+
 ## Denní rutina
 
 **Večer:**
