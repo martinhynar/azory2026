@@ -31,7 +31,13 @@ Popis na [AirBnb](https://www.airbnb.com/rooms/1104334311446381171)
 
 ## Auto
 
-SIXT : Renault Captur : Smart+ Protection
+**Půjčovna:** 	Ilha verde, [Telefon +351296684360](tel:+351296684360)
+
+**Vyzvednutí:** středa, 12 srpna 2026 14:00, Ponta Delgada Letiště
+
+**Navrácení:** úterý, 25 srpna 2026 14:00
+
+**Auto:** Ford Focus nebo podobné, plné pojištění, znečištění se platí
 
 ## Lokace
 
@@ -306,6 +312,11 @@ Doporučuji:
 
 Čas: 08:30–11:30 (3 hodiny)
 
+Parkoviště:
+- [P1 - velké, nejblíž](https://mapy.com/s/palanogulo)
+- [P2 - menší](https://mapy.com/s/butaforelu)
+- [P3 - nejmenší, nejdál](https://mapy.com/s/dodotonode)
+
 ### Vzít s sebou
 
 - větrovku
@@ -315,6 +326,7 @@ Doporučuji:
 
 
 ## Odpoledne
+
 
 ### Historické centrum
 
@@ -326,13 +338,9 @@ Projděte:
 - náměstí
 
 
-## Plantáž ananasů
-
-Krátká zastávka.
-
-Ochutnávka.
-
-Možnost nákupu marmelád.
+- Plantáž ananasů [Mapa](https://mapy.com/s/pofapolama)
+  - Ochutnávka
+  - Možnost nákupu marmelády a likéru (i malé skleničky).
 
 
 # 15. srpna (sobota) : Furnas a termály
