@@ -328,16 +328,8 @@ Parkoviště:
 ## Odpoledne
 
 
-### Historické centrum
-
-Projděte:
-
-- přístav
-- městské brány
-- promenádu
-- náměstí
-
-
+- Historické centrum Ponta Delgada
+  - přístav, městské brány, promenáda, náměstí
 - Plantáž ananasů [Mapa](https://mapy.com/s/pofapolama), [Stránky](https://ananasdosacores.pt)
   - Ochutnávka
   - Možnost nákupu marmelády a likéru (i malé skleničky).
