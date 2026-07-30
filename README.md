@@ -17,7 +17,6 @@
 18. Rozpočet
 19. Checklisty
 
----
 
 # 1. Základní Informace {#zaklad}
 
@@ -225,14 +224,11 @@ Na Azorech jsou výborné. Vyplatí se koupit ráno například čerstvé housky
 | Čas | Program |
 |------|----------|
 | 10:00 | Přílet na letiště |
-| 10:30–11:30 | Vyzvednutí auta v SIXT |
-| 11:45 | Odjezd na nákup |
-| 12:00–13:00 | Velký nákup |
-| 13:00 | Oběd |
-| 14:00 | Odjezd na ubytování |
-| 15:00 | Check-in |
-| 17:00 | Procházka po Maia |
-| 19:00 | Večeře |
+| 10:30 | Vyřizování kvůli změně odletu |
+| 12:00 | Nějaký oběd |
+| 14:00 | Vyzvednutí auta |
+| 15:00 | Nákup, přejezd k ubytování |
+| 17:00 | Procházka po okolí Maia, pozorování zatmění slunce |
 
 
 
@@ -243,7 +239,6 @@ První výlet bude záměrně pohodový.
 
 Nebudete jezdit daleko od ubytování.
 
----
 
 ## Hlavní cíle
 
@@ -252,22 +247,6 @@ Nebudete jezdit daleko od ubytování.
 - Praia dos Moinhos
 - Ribeira Grande
 
----
-
-## Harmonogram
-
-| Čas | Program |
-|------|----------|
-| 09:00 | Odjezd |
-| 09:15 | Gorreana |
-| 10:30 | Porto Formoso |
-| 11:30 | Praia dos Moinhos |
-| 13:00 | Oběd |
-| 15:00 | Ribeira Grande |
-| 17:00 | Káva |
-| 18:00 | Návrat |
-
----
 
 ## 1. Gorreana Tea Plantation
 
@@ -281,15 +260,10 @@ Nejstarší čajová plantáž v Evropě.
 - obchod
 - krátká stezka
 
-### Doporučený čas
-
-1–1,5 hodiny
-
 ### Vstup
 
 Zdarma
 
----
 
 ## 2. Porto Formoso
 
@@ -297,7 +271,6 @@ Malá klidná vesnice.
 
 Krásný výhled na oceán.
 
----
 
 ## 3. Praia dos Moinhos
 
@@ -311,24 +284,6 @@ Toalety.
 
 Možnost koupání.
 
----
-
-## Oběd
-
-Ideálně **Prato do Dia**.
-
-Rozpočet
-
-10–12 €/osoba
-
-Vegetariánské možnosti:
-
-- zeleninová polévka
-- omeleta
-- salát
-- těstoviny
-
----
 
 ## Ribeira Grande
 
@@ -342,35 +297,8 @@ Doporučuji:
 - zmrzlina
 - káva
 
----
-
-## Dnešní kilometry
-
-cca 70 km
-
----
-
 
 # 14. srpna (pátek) : Whale Watching  + Ponta Delgada
-
-Nejdůležitější den první poloviny dovolené.
-
-
-## Harmonogram
-
-| Čas | Program |
-|------|----------|
-| 07:00 | Snídaně |
-| 07:45 | Odjezd |
-| 08:40 | Parkování |
-| 09:00 | Whale Watching |
-| 12:00 | Konec |
-| 12:30 | Oběd |
-| 14:00 | Centrum města |
-| 16:00 | Ananasová plantáž |
-| 18:00 | Návrat |
-
----
 
 ## Pozorování velryb
 
@@ -385,17 +313,6 @@ Nejdůležitější den první poloviny dovolené.
 - opalovací krém
 - vodu
 
----
-
-## Oběd
-
-Dnes doporučuji vegetariánsky přívětivý podnik, aby si vybral každý člen rodiny.
-
-Rozpočet
-
-12–18 €/osoba
-
----
 
 ## Odpoledne
 
@@ -408,7 +325,6 @@ Projděte:
 - promenádu
 - náměstí
 
----
 
 ## Plantáž ananasů
 
@@ -418,21 +334,11 @@ Ochutnávka.
 
 Možnost nákupu marmelád.
 
----
 
-## Dnešní kilometry
-
-cca 120 km
-
----
-
-
-# 15. srpna (sobota)
-# Furnas a termály
+# 15. srpna (sobota) : Furnas a termály
 
 Jedna z nejkrásnějších částí ostrova.
 
----
 
 ## Hlavní cíle
 
@@ -441,7 +347,6 @@ Jedna z nejkrásnějších částí ostrova.
 - Terra Nostra Park
 - termální koupání
 
----
 
 ## Harmonogram
 
@@ -455,7 +360,6 @@ Jedna z nejkrásnějších částí ostrova.
 | 17:00 | Termální koupání |
 | 18:30 | Návrat |
 
----
 
 ## Lagoa das Furnas
 
@@ -463,7 +367,6 @@ Projděte se kolem jezera.
 
 Vyhlídky jsou nádherné hlavně dopoledne.
 
----
 
 ## Fumaroly
 
@@ -471,7 +374,6 @@ Uvidíte, kde se připravuje tradiční **Cozido das Furnas**.
 
 Stojí za krátkou zastávku, i když si ho nedáte k obědu.
 
----
 
 ## Oběd
 
@@ -481,7 +383,6 @@ Prato do Dia nebo vegetariánská varianta.
 
 Pokud budete chtít ochutnat Cozido, počítejte s vyšší cenou (cca 20–25 €).
 
----
 
 ## Terra Nostra Park
 
@@ -493,13 +394,11 @@ Nezapomeňte:
 - ručník,
 - přezůvky.
 
----
 
 ## Dnešní kilometry
 
 cca 60 km
 
----
 
 ## Rozpočet dne
 
@@ -513,7 +412,6 @@ cca 60 km
 
 Tento den bude věnován severovýchodní části ostrova. Čeká vás jedna z nejkrásnějších turistických tras na São Miguel.
 
----
 
 ## Přehled dne
 
@@ -529,7 +427,6 @@ Celkem
 - 🥾 6–8 km pěšky
 - ⏱️ 6–7 hodin programu
 
----
 
 ## Harmonogram
 
@@ -545,7 +442,6 @@ Celkem
 | 17:00 | Káva |
 | 18:00 | Návrat |
 
----
 
 ## Zastávka 1 – Moinho do Félix
 
@@ -574,7 +470,6 @@ Jedna z nejhezčích okružních tras na ostrově.
 - plavky
 - repelent
 
----
 
 ## Zastávka 2 – Poço Azul
 
@@ -584,7 +479,6 @@ Nejhezčí je za slunečného počasí kolem poledne, kdy světlo proniká mezi 
 
 Na koupání pouze podle aktuálních podmínek.
 
----
 
 ## Oběd
 
@@ -595,7 +489,6 @@ Doporučení:
 
 **Rozpočet:** 10–14 €/osoba
 
----
 
 ## Zastávka 3 – Lomba de São Pedro
 
@@ -603,7 +496,6 @@ Klidná vesnice s nádhernými výhledy na severní pobřeží.
 
 Vyhraďte si čas na krátkou procházku.
 
----
 
 ## Odpolední káva
 
@@ -617,7 +509,6 @@ Rozpočet:
 
 4–6 €/osoba
 
----
 
 ## Fotografické tipy
 
@@ -632,7 +523,6 @@ Rozpočet:
 Den plný vyhlídek, zahrad a vodopádů.
 Východ slunce na východní straně ostrova
 
----
 
 ## Přehled dne
 
@@ -667,7 +557,6 @@ Východ slunce na východní straně ostrova
 
 Jeden z nejhezčích turistických dnů celé dovolené.
 
----
 
 ## Přehled dne
 
@@ -681,7 +570,6 @@ Celkem
 - 🚗 70 km
 - 🥾 5 km
 
----
 
 ## Harmonogram
 
@@ -696,7 +584,6 @@ Celkem
 | 17:00 | Káva |
 | 18:00 | Návrat |
 
----
 
 ## Salto do Prego
 
@@ -710,13 +597,11 @@ Stezka vede:
 
 Na konci čeká krásný vodopád.
 
----
 
 ## Koupání
 
 Pokud bude dostatek vody a bezpečné podmínky, můžete se krátce osvěžit.
 
----
 
 ## Oběd
 
@@ -732,7 +617,6 @@ Lehké menu:
 
 Den věnovaný jednomu z nejznámějších jezer na Azorech.
 
----
 
 ## Přehled dne
 
@@ -742,7 +626,6 @@ Den věnovaný jednomu z nejznámějších jezer na Azorech.
 - Ribeira Grande
 - koupání (podle počasí)
 
----
 
 ## Harmonogram
 
@@ -756,7 +639,6 @@ Den věnovaný jednomu z nejznámějších jezer na Azorech.
 | 16:30 | Káva nebo koupání |
 | 18:00 | Návrat |
 
----
 
 ## Lagoa do Fogo
 
@@ -768,7 +650,6 @@ Odpoledne bývá častěji zataženo.
 
 Pokud budou webkamery ukazovat hustou mlhu, vyměňte tento den za jiný výlet.
 
----
 
 ## Oběd
 
@@ -778,7 +659,6 @@ Rozpočet:
 
 10–13 €/osoba.
 
----
 
 ## Ribeira Grande
 
@@ -797,7 +677,6 @@ Tipy:
 
 Dnes navštívíte nejznámější část São Miguel. Vyplatí se vyjet dříve, protože dopoledne bývá nejlepší viditelnost.
 
----
 
 ## Přehled dne
 
@@ -814,7 +693,6 @@ Celkem
 - 🚗 cca 170 km
 - 🚶 4–6 km
 
----
 
 ## Harmonogram
 
@@ -830,7 +708,6 @@ Celkem
 | 16:30 | Koupání |
 | 18:30 | Návrat |
 
----
 
 ## Boca do Inferno
 
@@ -838,13 +715,11 @@ Nejznámější vyhlídka na Azorech.
 
 Vyhraďte si alespoň 45 minut.
 
----
 
 ## Vista do Rei
 
 Klasická pohlednice São Miguel.
 
----
 
 ## Sete Cidades
 
@@ -852,7 +727,6 @@ Krátká procházka vesnicí.
 
 Možnost půjčení kajaku nebo paddleboardu (dle počasí).
 
----
 
 ## Oběd
 
@@ -872,7 +746,6 @@ Vegetarián:
 - salát
 - omeleta
 
----
 
 ## Mosteiros
 
@@ -890,7 +763,6 @@ Pokud budou malé vlny:
 
 Po několika aktivních dnech přijde vhod odpočinek.
 
----
 
 ## Návrhy
 
@@ -899,31 +771,26 @@ Po několika aktivních dnech přijde vhod odpočinek.
 - místní kavárna
 - fotografování pobřeží
 
----
 
 ## Varianta A
 
 Celý den odpočinek.
 
----
 
 ## Varianta B
 
 Krátký výlet do Ribeira Grande.
 
----
 
 ## Oběd
 
 Prato do Dia.
 
----
 
 ## Večer
 
 Grilování nebo jednoduchá večeře na ubytování.
 
----
 
 # 22. srpna (sobota)
 # Rezervní den
@@ -943,14 +810,12 @@ Pokud vše vyjde podle plánu, doporučuji:
 - Caloura,
 - Ferraria (pokud budou vhodové podmínky).
 
----
 
 # 23. srpna (neděle)
 # Ponta Delgada
 
 Volnější městský den.
 
----
 
 ## Program
 
@@ -960,7 +825,6 @@ Volnější městský den.
 - nákupy
 - kavárny
 
----
 
 ## Doporučené nákupy
 
@@ -970,19 +834,16 @@ Volnější městský den.
 - konzervovaný tuňák
 - místní koření
 
----
 
 ## Oběd
 
 Vegetariánská restaurace nebo místní snack bar.
 
----
 
 ## Večer
 
 Procházka po přístavu.
 
----
 
 # 24. srpna (pondělí)
 # Oblíbená místa podle počasí
@@ -1002,12 +863,10 @@ Možnosti:
 
 Odpoledne doporučuji vrátit se na ubytování dříve a začít balit.
 
----
 
 # 25. srpna (úterý)
 # Odlet domů
 
----
 
 ## Harmonogram
 
@@ -1021,7 +880,6 @@ Odpoledne doporučuji vrátit se na ubytování dříve a začít balit.
 | 13:30 | Vrácení auta |
 | 15:25 | Odlet |
 
----
 
 ## Praia das Milícias
 
@@ -1036,7 +894,6 @@ Výhody:
 
 Nezapomeňte si nechat čas na osprchování a převlečení.
 
----
 
 ## Oběd
 
@@ -1044,7 +901,6 @@ Lehký oběd.
 
 Nepřejídat se před letem.
 
----
 
 ## Vrácení auta
 
@@ -1055,7 +911,6 @@ Před vrácením:
 - vyfotit stav vozu,
 - připravit smlouvu.
 
----
 
 # Souhrn celé dovolené
 
@@ -1063,13 +918,11 @@ Před vrácením:
 
 Přibližně **850–950 km**
 
----
 
 ## Odhad benzínu
 
 55–60 litrů
 
----
 
 ## Odhad nákladů
 
@@ -1081,7 +934,6 @@ Přibližně **850–950 km**
 | Káva a zákusky | 100–150 € |
 | Vstupy a aktivity | dle rezervací |
 
----
 
 # Hodnocení hlavních míst
 
@@ -1098,13 +950,11 @@ Přibližně **850–950 km**
 | Mosteiros | ⭐⭐⭐⭐☆ |
 | Maia | ⭐⭐⭐⭐☆ |
 
----
 
 # Kapitola 4 – Gastronomický průvodce
 
 > Jak se na São Miguel dobře a rozumně najíst bez turistických pastí.
 
----
 
 # Jak funguje stravování
 
@@ -1119,7 +969,6 @@ Místní obvykle jedí:
 
 Nejvýhodnější je chodit na oběd mezi **12:00–13:00**, kdy většina podniků nabízí **Prato do Dia**.
 
----
 
 # Prato do Dia
 
@@ -1136,7 +985,6 @@ Cena:
 
 Někde je součástí i malý dezert.
 
----
 
 # Portugalská káva
 
@@ -1154,7 +1002,6 @@ Cena:
 
 1–2 €
 
----
 
 # Co určitě ochutnat
 
@@ -1164,7 +1011,6 @@ Cena:
 - Atum (tuňák)
 - Chicharros
 
----
 
 ## Maso
 
@@ -1172,7 +1018,6 @@ Cena:
 - Frango Grelhado
 - Cozido das Furnas
 
----
 
 ## Mořské plody
 
@@ -1180,7 +1025,6 @@ Cena:
 - Polvo
 - Camarão
 
----
 
 ## Vegetariánská jídla
 
@@ -1195,7 +1039,6 @@ Na ostrově je vegetariánská nabídka menší než na pevnině, ale běžně l
 
 V Ponta Delgada zařaďte během pobytu jednu návštěvu vegetariánské restaurace.
 
----
 
 # Snídaně
 
@@ -1223,7 +1066,6 @@ Cena:
 - Ilha
 - Pico
 
----
 
 ## Ovoce
 
@@ -1231,7 +1073,6 @@ Cena:
 - maracuja
 - banány
 
----
 
 ## Sladkosti
 
@@ -1240,7 +1081,6 @@ Cena:
 - Malassadas
 - Bolo Lêvedo
 
----
 
 # Nápoje
 
@@ -1256,7 +1096,6 @@ Alkoholické:
 - Coral
 - portugalská vína
 
----
 
 # Co koupit domů
 
@@ -1268,7 +1107,6 @@ Alkoholické:
 - konzervovaného tuňáka
 - místní koření
 
----
 
 # Přibližné ceny
 
@@ -1284,7 +1122,6 @@ Alkoholické:
 | Pivo | 2–3 € |
 | Voda 1,5 l | 0,80–1,20 € |
 
----
 
 # Tipy pro úsporu
 
@@ -1293,7 +1130,6 @@ Alkoholické:
 - noste si na výlety svačinu a vodu,
 - využívejte pekárny místo turistických kaváren.
 
----
 
 # Doporučený rozpočet
 
@@ -1306,7 +1142,6 @@ Alkoholické:
 
 Celkem přibližně **85–130 € za den**, podle toho, kolikrát půjdete do restaurace.
 
----
 
 # Slovníček
 
@@ -1321,14 +1156,12 @@ Celkem přibližně **85–130 € za den**, podle toho, kolikrát půjdete do r
 | Café | Káva |
 | Bom apetite | Dobrou chuť |
 
----
 
 
 # Kapitola 5 – Přehled zajímavých míst
 
 > Referenční katalog míst, která navštívíte během dovolené. U každého místa je uvedeno, proč stojí za návštěvu, kolik času si vyhradit a praktické tipy.
 
----
 
 # Přehled podle oblastí
 
@@ -1377,7 +1210,6 @@ Celkem přibližně **85–130 € za den**, podle toho, kolikrát půjdete do r
 - Plantáž ananasů
 - Caloura
 
----
 
 # Gorreana Tea Plantation
 
@@ -1411,7 +1243,6 @@ Zdarma.
 
 Nejhezčí světlo mezi 9:00–10:30.
 
----
 
 # Porto Formoso
 
@@ -1427,7 +1258,6 @@ Doporučený čas:
 
 30–45 minut.
 
----
 
 # Praia dos Moinhos
 
@@ -1450,7 +1280,6 @@ Na děti vždy dohlížet.
 
 1–2 hodiny.
 
----
 
 # Maia
 
@@ -1463,7 +1292,6 @@ Klidná obec, kde budete bydlet.
 - přístav,
 - útesy.
 
----
 
 # Moinho do Félix
 
@@ -1496,7 +1324,6 @@ Náročnost:
 - repelent,
 - vodu.
 
----
 
 # Poço Azul
 
@@ -1510,7 +1337,6 @@ Při slunečném počasí má voda nádhernou tyrkysovou barvu.
 
 30–45 minut.
 
----
 
 # Lomba de São Pedro
 
@@ -1518,7 +1344,6 @@ Nenápadná vesnice s krásnými výhledy.
 
 Ideální na krátkou zastávku a fotografie.
 
----
 
 # Ribeira dos Caldeirões
 
@@ -1537,7 +1362,6 @@ Jedna z ikon ostrova.
 
 Vstup zdarma.
 
----
 
 # Nordeste
 
@@ -1550,7 +1374,6 @@ Malebné městečko.
 - park,
 - kavárnu.
 
----
 
 # Miradouro da Ponta do Sossego
 
@@ -1558,7 +1381,6 @@ Patří mezi nejkrásnější upravené vyhlídky na ostrově.
 
 Ideální na piknik.
 
----
 
 # Miradouro da Ponta da Madrugada
 
@@ -1566,7 +1388,6 @@ Nejhezčí místo na východ slunce.
 
 Pokud se vám bude chtít jednou vstát opravdu brzy, stojí to za to.
 
----
 
 # Furnas
 
@@ -1581,7 +1402,6 @@ Sopečné údolí.
 
 Na celý den.
 
----
 
 # Terra Nostra Park
 
@@ -1596,7 +1416,6 @@ Nezapomeňte:
 - tmavé plavky,
 - ručník.
 
----
 
 # Poça da Dona Beija
 
@@ -1608,7 +1427,6 @@ Doba návštěvy:
 
 1,5 hodiny.
 
----
 
 # Salto do Prego
 
@@ -1622,7 +1440,6 @@ Lehká až střední obtížnost.
 
 Na konci možnost osvěžení.
 
----
 
 # Lagoa do Fogo
 
@@ -1634,7 +1451,6 @@ Přijeďte dopoledne.
 
 Po poledni bývá častější mlha.
 
----
 
 # Boca do Inferno
 
@@ -1646,7 +1462,6 @@ Nejslavnější vyhlídka Azor.
 
 Návštěvu plánujte ráno.
 
----
 
 # Vista do Rei
 
@@ -1654,7 +1469,6 @@ Klasický pohled na dvě jezera.
 
 Krátká zastávka.
 
----
 
 # Sete Cidades
 
@@ -1666,7 +1480,6 @@ Malebná vesnice mezi jezery.
 - půjčit kajak,
 - dát si kávu.
 
----
 
 # Mosteiros
 
@@ -1674,7 +1487,6 @@ Malebná vesnice mezi jezery.
 
 Výborné místo na koupání a západ slunce.
 
----
 
 # Ponta da Ferraria
 
@@ -1686,7 +1498,6 @@ Koupání je nejlepší při odlivu.
 
 Před návštěvou zkontrolujte příliv.
 
----
 
 # Ponta Delgada
 
@@ -1700,7 +1511,6 @@ Hlavní město ostrova.
 - promenádu,
 - tržnici.
 
----
 
 # Plantáž ananasů
 
@@ -1712,7 +1522,6 @@ Krátká, ale zajímavá zastávka.
 - marmeládu,
 - čerstvý ananas.
 
----
 
 # Praia das Milícias
 
@@ -1726,7 +1535,6 @@ Výhody:
 - parkování,
 - kavárna.
 
----
 
 # Caloura
 
@@ -1736,7 +1544,6 @@ Skvělý na koupání a oběd.
 
 Pokud vám zbyde čas během rezervního dne, rozhodně doporučuji.
 
----
 
 # Top 10 míst celé dovolené
 
@@ -1753,7 +1560,6 @@ Pokud vám zbyde čas během rezervního dne, rozhodně doporučuji.
 | 9 | Praia dos Moinhos |
 | 10 | Mosteiros |
 
----
 
 # Osobní tip
 
@@ -1765,13 +1571,11 @@ Pokud byste po návratu domů vzpomínali jen na tři místa, myslím, že to bu
 
 Právě tato tři místa nejlépe vystihují rozmanitost ostrova São Miguel.
 
----
 
 # Kapitola 6 – Turistické trasy
 
 > Přehled všech plánovaných pěších tras s praktickými informacemi.
 
----
 
 # Doporučené vybavení
 
@@ -1788,7 +1592,6 @@ Na každou túru si vezměte:
 - 📱 nabitý telefon
 - 🔋 powerbanku
 
----
 
 # Obtížnost tras
 
@@ -1802,7 +1605,6 @@ Na každou túru si vezměte:
 
 Všechny trasy v itineráři jsou maximálně **⭐⭐⭐☆☆**.
 
----
 
 # Moinho do Félix
 
@@ -1840,7 +1642,6 @@ cca 180 m
 
 Po dešti může být stezka kluzká.
 
----
 
 # Salto do Prego
 
@@ -1870,7 +1671,6 @@ Vodopád Salto do Prego.
 
 Pouze pokud bude dostatek vody a bezpečné podmínky.
 
----
 
 # Lagoa do Fogo
 
@@ -1890,7 +1690,6 @@ Sestup k jezeru.
 
 Pokud bude horko, doporučuji zůstat jen na vyhlídkách.
 
----
 
 # Ribeira dos Caldeirões
 
@@ -1904,7 +1703,6 @@ Celkem:
 
 Ideální pro fotografování.
 
----
 
 # Furnas
 
@@ -1912,7 +1710,6 @@ Nejde o klasickou túru.
 
 Počítejte ale s tím, že během dne nachodíte 6–8 km po parcích a městečku.
 
----
 
 # Sete Cidades
 
@@ -1934,7 +1731,6 @@ Okraj kráteru.
 
 Doporučuji rozhodnout až podle počasí.
 
----
 
 # Praia dos Moinhos
 
@@ -1944,7 +1740,6 @@ Lehká pobřežní procházka.
 
 Skvělá na bosou chůzi po pláži.
 
----
 
 # Maia
 
@@ -1956,7 +1751,6 @@ Nenáročná.
 
 Ideální po příjezdu.
 
----
 
 # Ponta Delgada
 
@@ -1966,7 +1760,6 @@ Historické centrum.
 
 Pohodlná městská chůze.
 
----
 
 # Doporučené tempo
 
@@ -1982,7 +1775,6 @@ Počítejte s častými zastávkami:
 
 Průměrná rychlost na stezkách bude kolem **2,5 km/h**.
 
----
 
 # Bezpečnost
 
@@ -1994,7 +1786,6 @@ Dodržujte tato pravidla:
 - sledujte počasí,
 - mějte dostatek vody.
 
----
 
 # Fotografické tipy
 
@@ -2014,7 +1805,6 @@ Dodržujte tato pravidla:
 
 ✔ po dešti (barvy jsou výraznější)
 
----
 
 # Co si zapisovat
 
@@ -2029,7 +1819,6 @@ Pokud si chcete z dovolené udělat cestovní deník, doporučuji si po každé 
 
 Na konci dovolené budete mít krásnou kroniku celé cesty.
 
----
 
 # Přehled všech tras
 
@@ -2045,7 +1834,6 @@ Na konci dovolené budete mít krásnou kroniku celé cesty.
 | Maia | 2 km | 40 min | ⭐☆☆☆☆ |
 | Ponta Delgada | 4 km | 2 h | ⭐☆☆☆☆ |
 
----
 
 # Souhrn
 
@@ -2055,13 +1843,11 @@ Celkem během dovolené nachodíte přibližně:
 
 To je ideální množství – dost na poznání ostrova, ale bez zbytečného přetížení.
 
----
 
 # Kapitola 7 – Pláže, koupání a termální prameny
 
 > Přehled nejlepších míst ke koupání na ostrově São Miguel včetně praktických tipů.
 
----
 
 # Kde se koupat
 
@@ -2073,7 +1859,6 @@ Na São Miguel najdete několik typů koupání:
 - ♨️ termální prameny
 - 💦 vodopády
 
----
 
 # Praia dos Moinhos
 
@@ -2104,7 +1889,6 @@ cca 5 minut autem.
 
 ✔ západ slunce
 
----
 
 # Praia da Viola
 
@@ -2118,7 +1902,6 @@ krátkou pěší stezkou.
 
 Výhodou je minimum turistů.
 
----
 
 # Praia das Milícias
 
@@ -2138,7 +1921,6 @@ Výbava:
 - restaurace
 - parkování
 
----
 
 # Praia do Pópulo
 
@@ -2148,7 +1930,6 @@ Je o něco klidnější.
 
 Dobrá alternativa.
 
----
 
 # Mosteiros
 
@@ -2162,7 +1943,6 @@ večer.
 
 Slunce zde zapadá přímo do oceánu.
 
----
 
 # Caloura
 
@@ -2174,7 +1954,6 @@ Velmi klidná voda.
 
 Jedno z nejlepších míst na šnorchlování.
 
----
 
 # Ponta da Ferraria
 
@@ -2190,7 +1969,6 @@ Navštivte pouze při odlivu.
 
 Při přílivu bývá koupání nebezpečné.
 
----
 
 # Přírodní bazény Maia
 
@@ -2202,7 +1980,6 @@ Výborné místo na:
 - večerní relaxaci,
 - fotografování.
 
----
 
 # Poço Azul
 
@@ -2212,7 +1989,6 @@ Koupání pouze tehdy, pokud budou vhodné podmínky.
 
 Nejde o klasickou pláž.
 
----
 
 # Salto do Prego
 
@@ -2222,7 +1998,6 @@ Možnost krátkého osvěžení.
 
 Po silnějších deštích je vody výrazně více.
 
----
 
 # Termální koupání
 
@@ -2249,7 +2024,6 @@ Doporučená doba koupání:
 
 20–30 minut.
 
----
 
 ## Poça da Dona Beija
 
@@ -2267,7 +2041,6 @@ Teplota:
 
 37–39 °C
 
----
 
 # Bezpečnost při koupání
 
@@ -2283,7 +2056,6 @@ Dodržujte:
 
 ✔ děti mějte neustále pod dohledem
 
----
 
 # Barvy vlajek
 
@@ -2299,7 +2071,6 @@ opatrnost
 
 nevstupovat do vody
 
----
 
 # Co si vzít na pláž
 
@@ -2312,7 +2083,6 @@ nevstupovat do vody
 - svačinu
 - sandály
 
----
 
 # Šnorchlování
 
@@ -2330,7 +2100,6 @@ Vidět lze:
 
 Pozor na ostré vulkanické kameny – hodí se boty do vody.
 
----
 
 # Kde sledovat západ slunce
 
@@ -2342,7 +2111,6 @@ Pozor na ostré vulkanické kameny – hodí se boty do vody.
 
 ⭐⭐⭐⭐☆ Praia dos Moinhos
 
----
 
 # Nejlepší koupací místa
 
@@ -2357,7 +2125,6 @@ Pozor na ostré vulkanické kameny – hodí se boty do vody.
 | Terra Nostra | ⭐⭐⭐⭐⭐ | termály |
 | Dona Beija | ⭐⭐⭐⭐☆ | termální bazény |
 
----
 
 # Doporučení pro váš pobyt
 
@@ -2371,13 +2138,11 @@ Pokud bude pěkné počasí, zařadil bych koupání přibližně v tomto pořad
 
 Tak poznáte všechny hlavní typy koupání, které São Miguel nabízí.
 
----
 
 # Kapitola 8 – Praktické checklisty a nouzové informace
 
 > Poslední kapitola slouží jako rychlá příručka, kterou můžete během dovolené otevřít během několika sekund.
 
----
 
 # Checklist před odletem z ČR
 
@@ -2392,7 +2157,6 @@ Tak poznáte všechny hlavní typy koupání, které São Miguel nabízí.
 - ✅ Rezervace Whale Watching
 - ✅ Cestovní pojištění
 
----
 
 ## Elektronika
 
@@ -2404,7 +2168,6 @@ Tak poznáte všechny hlavní typy koupání, které São Miguel nabízí.
 - ✅ Paměťové karty
 - ✅ Adaptér do auta (USB)
 
----
 
 ## Oblečení
 
@@ -2420,7 +2183,6 @@ Tak poznáte všechny hlavní typy koupání, které São Miguel nabízí.
 - plavky (ideálně dvoje)
 - čepice nebo kšiltovka
 
----
 
 
 # Checklist při převzetí auta
@@ -2436,7 +2198,6 @@ Než odjedete z půjčovny:
 - ✅ vyzkoušet světla
 - ✅ nastavit navigaci
 
----
 
 # Každé ráno
 
@@ -2450,7 +2211,6 @@ Než odjedete z půjčovny:
 - hotovost
 - fotoaparát
 
----
 
 # Každý večer
 
@@ -2460,7 +2220,6 @@ Než odjedete z půjčovny:
 - zkontrolovat plán na další den
 - případně natankovat
 
----
 
 # Nouzová čísla
 
@@ -2471,13 +2230,11 @@ Než odjedete z půjčovny:
 | Záchranná služba | přes 112 |
 | Hasiči | přes 112 |
 
----
 
 # Zdravotní péče
 
 Na Azorech funguje evropský průkaz zdravotního pojištění, ale doporučuje se mít sjednané cestovní pojištění pro krytí spoluúčasti a dalších nákladů.
 
----
 
 # Tankování
 
@@ -2487,7 +2244,6 @@ Před vrácením vozu:
 - uschovat účtenku,
 - vyfotit stav palivoměru.
 
----
 
 # Když prší
 
@@ -2500,7 +2256,6 @@ Náhradní program:
 - Ponta Delgada
 - nákupy
 
----
 
 # Když je mlha
 
@@ -2516,7 +2271,6 @@ Místo toho navštivte:
 - Nordeste
 - Ribeira Grande
 
----
 
 
 # Nejlepší suvenýry
@@ -2530,7 +2284,6 @@ Místo toho navštivte:
 - konzervovaný tuňák
 - lávové výrobky
 
----
 
 # Doporučení pro fotografování
 
@@ -2557,7 +2310,6 @@ Místo toho navštivte:
 - Ferraria
 - Maia
 
----
 
 # Top 10 zážitků
 
